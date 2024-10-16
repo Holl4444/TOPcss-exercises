@@ -1,0 +1,18 @@
+.odd {
+  background-color: #f3acaf;
+  font-family: "Verdana", "Dejavu Sans", serif;
+}
+
+.larger {
+  font-size: 24px;
+}
+
+#bigBlue {
+  font-size: 36px;
+  color: #0000ff;
+}
+
+#lgreen {
+  font-weight: bold;
+  background-color: #7bf27f;
+}
